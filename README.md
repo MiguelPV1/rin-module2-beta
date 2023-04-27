@@ -1,4 +1,5 @@
 # calendario-vue
+POC of a calendar management page based on non-working days for the CDMX notaries.
 
 ## Project setup
 ```
